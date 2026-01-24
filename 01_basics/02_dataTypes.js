@@ -7,3 +7,7 @@ console.log(3
      3) //code readability should be high
 
 console.log("Ashu")
+
+console.log(typeof "Ashu")
+console.log(typeof null)
+console.log(typeof undefined)
